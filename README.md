@@ -4,8 +4,6 @@ Soy estudiante de **Ingeniería Informática**, una carrera en la que sigo apren
 
 Disfruto mucho el proceso de aprender, mejorar mis habilidades y enfrentarme a nuevos retos. Algo que me encanta es cuando el código **funciona a la primera**, aunque también entiendo que cada error es parte del camino para convertirme en un mejor desarrollador.
 
-Fuera del mundo de la programación, me gusta ir al **gym** y también amo los **gatos**. Me considero una persona curiosa, con ganas de superarse y de seguir construyendo un buen futuro dentro de esta carrera.
-
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática
