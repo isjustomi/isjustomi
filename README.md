@@ -1,34 +1,22 @@
 # ¡Hola! Soy Thomas Galdámez 👋
 
-Soy estudiante de **Ingeniería Informática**, una carrera en la que sigo aprendiendo y fortaleciendo mis conocimientos cada día. Me gusta descubrir cosas nuevas, conocer personas y seguir creciendo tanto a nivel personal como profesional dentro del mundo de la tecnología.
+Estudiante de **Ingeniería Informática** en la UCA (El Salvador) y bachiller técnico en Desarrollo de Software.
+Desarrollo aplicaciones web full stack y **estoy buscando mi primera oportunidad como desarrollador junior**.
 
-Disfruto mucho el proceso de aprender, mejorar mis habilidades y enfrentarme a nuevos retos. Algo que me encanta es cuando el código **funciona a la primera**, aunque también entiendo que cada error es parte del camino para convertirme en un mejor desarrollador.
+## 🛠️ Tecnologías
+- **Frontend:** React, Vite, JavaScript, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express, APIs REST, autenticación con JWT
+- **Bases de datos:** MongoDB, SQL
+- **Otros:** Java, Kotlin (Android), Git y GitHub
+- **Aprendiendo:** C# y .NET
 
-## Sobre mí
+## 🚀 Proyectos destacados
+- **[Eternal Joyería](https://eternal-joyeria-sigma.vercel.app)**: e-commerce full stack en equipo (React, Node, Express, MongoDB). Desarrollé CRUD de productos, categorías, reseñas, órdenes y ventas, login con rutas protegidas, recuperación de contraseña y el checkout con Wompi. 40+ commits.
+- **[HoshiProject](https://github.com/danielgranados123/HoshiProject)**: plataforma de compraventa de vehículos. Hice la autenticación con JWT, CRUD de sucursales y marcas, y las pantallas de ventas.
+- **[BookTracker](https://github.com/isjustomi/BookTracker)**: app en React que consume una API para gestionar libros.
 
-- 🎓 Estudiante de Ingeniería Informática
-- 📚 En constante aprendizaje y fortaleciendo mis conocimientos
-- 💡 Me gusta aprender cosas nuevas
-- 🤝 Disfruto conocer personas
-- 🐱 Amo los gatos
-- 🏋️ Me gusta ir al gym
-- 🔥 Me encanta cuando el código funciona a la primera
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/thomas-galdamez-palomares-b9a89038b/
+- Correo: thomasgldmz@gmail.com
 
-## Objetivo
-
-Seguir creciendo como profesional en el área de la informática, desarrollar nuevas habilidades y construir proyectos que me permitan aplicar todo lo que voy aprendiendo en mi carrera.
-
-<!--
-**isjustomi/isjustomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fuera del código: me gustan los gatos 🐱 y el gym 🏋️
